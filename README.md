@@ -1,6 +1,9 @@
 ### Hi there 👋 this is kevin. 
 
-[![yarkable's github stats](https://github-readme-stats.vercel.app/api?username=yarkable&show_icons=true)](https://github.com/yarkable/github-readme-stats)
+- 🌱 I’m currently working on Deep Learning ...
+- 💬 Ask me about anything in [My Blog](szukevin.site/) ...
+
+[![yarkable's github stats](https://github-readme-stats.vercel.app/api?username=yarkable&show_icons=true)](https://github.com/yarkable)
 <!--
 **yarkable/yarkable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
